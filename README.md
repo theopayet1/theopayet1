@@ -63,6 +63,6 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## Projets publics / Public projects
-- [brain_bean](https://github.com/theopayet1/brain_bean) : C++
+- [brain_bean](https://github.com/theopayet1/brain_bean) : documentation
 - [watchtower](https://github.com/theopayet1/watchtower) : veille automatisée RSS + Hacker News, résumés par Claude, digest quotidien par email
 - [tp_evalKotlin_D2_P1](https://github.com/theopayet1/tp_evalKotlin_D2_P1) : application Android en Kotlin
