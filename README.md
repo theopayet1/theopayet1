@@ -18,7 +18,7 @@
 ## À propos
 - Brain Bean Studio : logiciels sur mesure (web, desktop, mobile)
 - Master Expert en Architecture et Développement Logiciel (en cours)
-- Domaines : fullstack, infrastructure cloud, contenus VR, Power BI / Power Apps
+- Domaines : fullstack, infrastructure cloud, contenus VR
 
 ## Parcours
 - Alternance chez Enedis : lead dev et référent technique de l'équipe digitale, référent VR
